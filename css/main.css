@@ -1,4 +1,33 @@
 body {
-    background-color: cyan;
+    background-color: #f9f9f9;
     font-family: 'Open Sans', sans-serif;
+}
+
+
+.header-wrapper,
+main {
+    max-width: 1064px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.header-wrapper {
+    padding: 0 30px;
+}
+
+header {
+    height: 216px;
+    background-color: #da2128;
+    padding-top: 20px;
+}
+
+.about-section-details {
+    background-color: #ffffff;
+}
+
+/* Mobile styles */
+@media (max-width: 400px) {
+    .about-section-wrapper {
+        margin-top: -60px;
+    }
 }
