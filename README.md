@@ -11,5 +11,8 @@
 - Began adding CSS styles, focusing on mobile first.
 - Tweaked HTML and CSS as needed, while testing responsiveness using Chrome.
 - Began filling out README.
-- TODO: Push code to GitHub.
-- TODO: Deploy project using GitHUb Pages.
+- Pushed code to GitHub.
+- Deployed project using GitHub Pages.
+- Completed README.
+
+To view the completed project, go to: https://kiss.github.io/wdc-mlh/
